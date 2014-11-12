@@ -1,0 +1,15 @@
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\bin\x64\Debug\SegmentacjaGuzowMozgu.exe.config
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\bin\x64\Debug\SegmentacjaGuzowMozgu.exe
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\bin\x64\Debug\SegmentacjaGuzowMozgu.pdb
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\MainWindow.baml
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\MainWindow.g.cs
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\App.g.cs
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu_MarkupCompile.cache
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.g.resources
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.Properties.Resources.resources
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.csproj.GenerateResource.Cache
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.exe
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.pdb
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\bin\x64\Debug\bin\x64\Debug\SimpleITKCSharpNative.dll
+c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu_Content.g.cs
