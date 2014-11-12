@@ -1,1 +1,2 @@
 c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\bin\Debug\SegmentacjaGuzowMozgu.exe.config
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\bin\Debug\SegmentacjaGuzowMozgu.exe.config

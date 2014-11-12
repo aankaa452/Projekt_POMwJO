@@ -13,3 +13,18 @@ c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\Segmen
 c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.pdb
 c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\bin\x64\Debug\bin\x64\Debug\SimpleITKCSharpNative.dll
 c:\users\anna\documents\visual studio 2012\Projects\SegmentacjaGuzowMozgu\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu_Content.g.cs
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\bin\x64\Debug\SegmentacjaGuzowMozgu.exe.config
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.exe
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.pdb
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\bin\x64\Debug\bin\x64\Debug\SimpleITKCSharpNative.dll
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\bin\x64\Debug\SegmentacjaGuzowMozgu.exe
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\bin\x64\Debug\SegmentacjaGuzowMozgu.pdb
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.csprojResolveAssemblyReference.cache
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\obj\x64\Debug\MainWindow.baml
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\obj\x64\Debug\MainWindow.g.cs
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\obj\x64\Debug\App.g.cs
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu_Content.g.cs
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu_MarkupCompile.cache
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.g.resources
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.Properties.Resources.resources
+D:\Bartek\PRACA\C#\Projekt_POMwJO\SegmentacjaGuzowMozgu\obj\x64\Debug\SegmentacjaGuzowMozgu.csproj.GenerateResource.Cache

@@ -16,7 +16,7 @@ namespace SegmentacjaGuzowMozgu
         itk.simple.Image image;
         Bitmap[] bitmaps;
         #endregion
-
+        // Siema siema, pierwszy commit
         #region constructors
         public ReadingImage() { }
         public ReadingImage(itk.simple.Image img) { this.image = img; }
