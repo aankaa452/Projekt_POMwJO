@@ -64,16 +64,17 @@
             <Slider TickPlacement="BottomRight" IsSnapToTickEnabled="True" x:Name="zoomSlider" Width="200" HorizontalAlignment="Right" IsEnabled="{Binding Path=ImageIsOpen,UpdateSourceTrigger=PropertyChanged}" Value="1" Minimum="0.5" Maximum="3.0" LargeChange="0.2" SmallChange="0.1" VerticalAlignment="Center" TickFrequency="0.1" Margin="0,0,15,0" ValueChanged="zoomSlider_ValueChanged"/>
             <Label x:Name="lZoomValue" Content="{Binding Path=ZoomValue, UpdateSourceTrigger=PropertyChanged}"  Margin="0,0,220,0" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontSize="14"/>
         </Grid>
-        <Grid x:Name="Toolbox" Visibility="Collapsed" HorizontalAlignment="Left" Margin="23,102,0,26" VerticalAlignment="Stretch" Width="200">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="7*"/>
-                <RowDefinition Height="181*"/>
-            </Grid.RowDefinitions>
-            <Grid.Background>
+        <StackPanel x:Name="Toolbox" Visibility="Collapsed" HorizontalAlignment="Left" Margin="23,102,0,26" VerticalAlignment="Stretch" Width="150">
+            <StackPanel.Background>
                 <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.GradientActiveCaptionColorKey}}"/>
-            </Grid.Background>
-            
-        </Grid>
+            </StackPanel.Background>
+            <Button x:Name="btnFGaussian" Margin="3,3,3,3" IsEnabled="True" Content="Rozmycie gaussa" Click="btnFGaussian_Click">               
+            </Button>
+            <Button x:Name="btnFiltr2" Margin="3,0,3,3" IsEnabled="True" Content="Filtr2">
+            </Button>
+            <Button x:Name="btnFiltr3" Margin="3,0,3,3" IsEnabled="True" Content="Filtr3">
+            </Button>
+        </StackPanel>
         <Button x:Name="btnFiltry" Content="Filtry" HorizontalAlignment="Left" Margin="0,307,0,0" VerticalAlignment="Top" Width="205" Height="21" Click="btnFiltry_Click">
             <Button.RenderTransform>
                 <RotateTransform CenterX="0" CenterY="0" Angle="-90" />
